@@ -26,11 +26,16 @@ We’ve compared XCS-LBP with three other texture descriptors among the reviewed
 * CS-LBP Heikkila et al. (2009) and
 * CS-LDP Xue et al. (2011)
 
-<h1> Background subtraction results using the GMM method on synthetic scenes – (a) original frame, (b) ground truth,(c) LBP, (d) CS-LBP, (e) CS-LDP and (f) proposed XCS-LBP. </h1>
+
+
+Background subtraction results using the GMM method on synthetic scenes – (a) original frame, (b) ground truth,(c) LBP, (d) CS-LBP, (e) CS-LDP and (f) proposed XCS-LBP.
+---------------------------------------------------
 
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/XCS-LBP/master/docs/visualresults.png" border="0"/></p>
 
-<h1>Performance of the different descriptors on syn-thetic videos of the BMC using the GMM method. </h1>
+
+Performance of the different descriptors on syn-thetic videos of the BMC using the GMM method. 
+---------------------------------------------------
 
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/XCS-LBP/master/docs/result.png" border="0" /></p>
 
