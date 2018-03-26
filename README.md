@@ -9,7 +9,6 @@ THE XCS-LBP DESCRIPTOR
 ---------------------------------------------------
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/XCS-LBP/master/docs/xcslbp.png" border="0" /></p>
 
-<center> <small> The XCS-LBP descriptor. </center>
 
 COMPARISON OF LBP AND VARIANTS
 ---------------------------------------------------
