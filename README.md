@@ -48,5 +48,5 @@ author    = {Silva, Caroline and Bouwmans, Thierry and Frelicot, Carl},
 title     = {An eXtended Center-Symmetric Local Binary Pattern for Background Modeling and Subtraction in Videos},
 booktitle = {International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP},
 year      = {2015},
-url       = https://www.behance.net/gallery/63435921/Weighted-Random-Subspace-for-Feature-Selection}
+url       = {https://www.researchgate.net/publication/270895993_An_eXtended_Center-Symmetric_Local_Binary_Pattern_for_Background_Modeling_and_Subtraction_in_Videos}
 ```
