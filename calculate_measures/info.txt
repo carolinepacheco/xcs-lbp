@@ -1,0 +1,10 @@
+Here are some important information:
+
+fet.py script: to compute the measures, to add images to the SC folder and to generate the score.txt file.
+FG folder: you have to add the images (white and black) given by your background subtraction algorithm.
+GT folder: you have to add  the grundtruth (white and black) of the dataset used.
+SC folder: it will generate images after executing the fet.py script. The true positives  (TP) pixels  are  in  white,  true  negatives  (TN)  pixels  in  black,  false  positives  (FP) pixels in red and false negatives (FN) pixels in green.
+score.txt: it will be created after to run the fet.py script. This file contains different measures, such as: precision, recall, TN, FT, FN, etc.
+
+Attention: The FG images must correspond to the GT.
+          You need to delete all the images from the GT, FG folder and to add your 		  images.
