@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from XCSLBP import *
 
 # Read original image
 imgnm = "002.jpg"
