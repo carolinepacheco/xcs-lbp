@@ -1,14 +1,9 @@
-#This function is to compute the XCSLBP features
-#Reference:
-#Caroline Silva, Thierry Bouwmans, Carl Fr?licot, "An eXtended Center-Symmetric Local Binary Pattern
-#for Background Modeling and Subtraction in Videos," International
-#Conference on Computer Vision Theory and Applications (VISAPP),
-#March 2015, 1-8.
+## Caroline Silva, Thierry Bouwmans, Carl Fr?licot, "An eXtended Center-Symmetric Local Binary Pattern for Background Modeling and Subtraction in Videos," International
+# Conference on Computer Vision Theory and Applications (VISAPP), March 2015, 1-8.
 
-#Copyright 2014 by Caroline Pacheco do E.Silva
-#If you have any problem, please feel free to contact Caroline Pacheco do E.Silva.
-#lolyne.pacheco@gmail.com
-
+# Copyright 2014 by Caroline Pacheco do E.Silva
+# If you have any problem, please feel free to contact Caroline Pacheco do E.Silva.
+# lolyne.pacheco@gmail.com
 
 #%%
 import cv2
