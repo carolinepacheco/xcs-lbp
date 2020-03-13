@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from XCSLBP import *
+from XCSLBP import XCSLBP
 
 # Read original image
 imgnm = "002.jpg"
@@ -27,4 +27,3 @@ for x, fr in zip(lbp[largeTF],freq[largeTF]):
     ax.text(x,fr, "{:6.0f}".format(x),color="red")
     ax.set_title("XCSLBP histogram")
 plt.show()
-    
