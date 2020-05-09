@@ -15,7 +15,7 @@ def XCSLBP(image):
     imgXCSLBP = np.zeros_like(gray_image) 
     neighboor = 3 
     
-    for ih in range(0,image.shape[0] - neighboor): # loop para linha 
+    for ih in range(0,image.shape[0] - neighboor): # loop by line
         for iw in range(0,image.shape[1] - neighboor):
             ### Get natrix image 3 by 3 pixel
             img = gray_image[ih:ih+neighboor,iw:iw+neighboor] 
